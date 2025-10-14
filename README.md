@@ -18,7 +18,8 @@ I’m passionate about building interactive, user-centered web experiences that 
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
 
 🎨 **Connect with Me** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nancymouwannes)  
 
 
-                                                  ✨ *"When Design meets Development"*
+                                            ✨ *"When Design meets Development"*
