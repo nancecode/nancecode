@@ -1,6 +1,3 @@
-**Full-Stack Web Developer [Front-end focused]**
-------------------------------------------------
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Speaking%20Head.png" alt="Speaking Head" width="25" height="25" /> **About Me**  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm a **MERN stack developer** from Montreal, Canada 🇨🇦.  
