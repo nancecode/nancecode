@@ -4,7 +4,7 @@
 👨‍💻 **About Me**  
 
 I'm a **MERN stack developer** from Montreal, Canada 🇨🇦.  
-Fun Fact: I am a former Visual Designer. I transitioned into web development to combine creativity with technical problem-solving.  
+Fun Fact: I am a former Digital Designer. I transitioned into web development to combine creativity with technical problem-solving.  
 I’m passionate about building interactive, user-centered web experiences that look as good as they perform.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
