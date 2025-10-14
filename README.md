@@ -1,4 +1,5 @@
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Full-Stack Web Developer [Front-end focused]**
+Full-Stack Web Developer [Front-end focused]**
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> **About Me**  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
