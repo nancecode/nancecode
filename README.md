@@ -7,7 +7,6 @@ I'm a **MERN stack developer** from Montreal, Canada 🇨🇦.
 Fun Fact: I am a former Visual Designer. I transitioned into web development to combine creativity with technical problem-solving.  
 I’m passionate about building interactive, user-centered web experiences that look as good as they perform.  
 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ **Languages & Tools**  
@@ -18,9 +17,11 @@ I’m passionate about building interactive, user-centered web experiences that 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 🎨 **Design Tools**  
+
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nancymouwannes)  
