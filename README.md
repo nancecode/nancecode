@@ -1,7 +1,7 @@
 💻 Full-Stack Web Developer [Front-end focused]
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👨‍💻 About Me
+👨‍💻 **About Me**  
 
 I'm a **MERN stack developer** from Montreal, Canada 🇨🇦.  
 Fun Fact: I am a former Visual Designer. I transitioned into web development to combine creativity with technical problem-solving.  
@@ -10,7 +10,7 @@ I’m passionate about building interactive, user-centered web experiences that 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Languages and Tools :
+🛠️ **Languages & Tools**  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
