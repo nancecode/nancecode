@@ -24,11 +24,6 @@ I’m passionate about building interactive, user-centered web experiences that 
 ### 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nancymouwannes)  
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
 
 ✨ *"When Design meets Development"*
