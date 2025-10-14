@@ -22,4 +22,4 @@ I’m passionate about building interactive, user-centered web experiences that 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nancymouwannes)  
 
 
-                                          ✨ *"When Design meets Development"*
+                                          ✨ "When Design meets Development" ✨
